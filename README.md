@@ -1,4 +1,6 @@
 # calculator
+![Screenshot](https://user-images.githubusercontent.com/86846327/149627863-92cd0b64-f71b-400a-8bc0-b7d338b5b8e9.png)
+
 
 A new Flutter project.
 
